@@ -1,9 +1,8 @@
-# Android Programming
-# The Big Nerd Ranch Guide
-# 2nd Edition
+* Android Programming *
+* The Big Nerd Ranch Guide *
+* 2nd Edition *
 
 
-## Table of Contents
 Introduction
 Chapter 1: Your First Android Application
 Chapter 2: Android and Model-View-Controller
